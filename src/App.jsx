@@ -424,7 +424,7 @@ const App = () => {
                 <div className="flex items-center space-x-3">
                   <FaEnvelope className="h-5 w-5 text-blue-400" />
                   <span className="text-gray-300">
-                    mahajananshit0@email.com
+                    mahajananshit0@gmail.com
                   </span>
                 </div>
                 <div className="flex items-center space-x-3">
@@ -582,14 +582,14 @@ const App = () => {
                   </h3>
                   <div className="space-y-4">
                     <a
-                      href="mailto:mahajananshit0@email.com"
+                      href="mailto:mahajananshit0@gmail.com"
                       className="flex items-center space-x-4 p-4 border border-gray-800 rounded-lg hover:border-blue-500 hover:bg-gray-800 transition-colors group"
                     >
                       <FaEnvelope className="h-6 w-6 text-blue-400" />
                       <div>
                         <div className="font-medium text-white">Email</div>
                         <div className="text-gray-300 group-hover:text-blue-400">
-                          mahajananshit0@email.com
+                          mahajananshit0@gmail.com
                         </div>
                       </div>
                     </a>
@@ -666,7 +666,7 @@ const App = () => {
                     <input
                       type="email"
                       className="w-full px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-white placeholder-gray-400"
-                      placeholder="your.email@example.com"
+                      placeholder="Your email"
                     />
                   </div>
                   <div>
